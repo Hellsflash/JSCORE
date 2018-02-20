@@ -14,27 +14,28 @@
     };
 
     function stopwatch() {
-        let seconds = 0;
-        let interval;
+        let seconds,interval;
         let startBtn = document.getElementById('startBtn');
         let endBtn = document.getElementById('stopBtn');
         startBtn.addEventListener('click', start);
         endBtn.addEventListener('click', stop);
 
         function start() {
+            document.getElementById('time').textContent='00:00';
+            seconds=1;
             startBtn.disabled = true;
             endBtn.disabled = false;
             interval = setInterval(function () {
-                seconds++;
                 document.getElementById('time').textContent =
                     ('0' + Math.floor(seconds / 60)).slice(-2) + ':' +
                     ('0' + seconds % 60).slice(-2);
+                seconds++;
             }, 1000);
         }
 
         function stop() {
+            seconds= 0;
             clearInterval(interval);
-            seconds= -1;
             startBtn.disabled = false;
             endBtn.disabled = true;
         }
