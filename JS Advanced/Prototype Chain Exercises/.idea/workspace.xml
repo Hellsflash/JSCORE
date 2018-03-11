@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cfa187e-d939-4ab7-a8eb-b95517007045" name="Default" comment="" />
+    <list default="true" id="646446a5-5e19-4ad3-8aed-ab09e9f9ae37" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01.Balloons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/02.People.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03.Posts.js" />
+      <change beforePath="$PROJECT_DIR$/../Prototype Chain/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Prototype Chain/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,13 +20,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="03.Posts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03.Posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,11 +46,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01.Person and Teacher.js" />
-        <option value="$PROJECT_DIR$/02.Inheriting toString.js" />
-        <option value="$PROJECT_DIR$/03.Extending Prototype.js" />
-        <option value="$PROJECT_DIR$/adsasd.html" />
-        <option value="$PROJECT_DIR$/04.Class Hierarchy.js" />
+        <option value="$PROJECT_DIR$/01.Balloons.js" />
+        <option value="$PROJECT_DIR$/02.People.js" />
+        <option value="$PROJECT_DIR$/03.Posts.js" />
       </list>
     </option>
   </component>
@@ -73,19 +88,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Prototype Chain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Prototype Chain" type="462c0819:PsiDirectoryNode" />
+              <item name="Prototype Chain Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prototype Chain Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,8 +109,6 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,23 +122,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.04.Class Hierarchy.js">
-    <configuration name="01.Person and Teacher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01.Person and Teacher.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="02.Inheriting toString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02.Inheriting toString.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="03.Extending Prototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03.Extending Prototype.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="04.Class Hierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04.Class Hierarchy.js" working-dir="$PROJECT_DIR$" />
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01.Person and Teacher.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02.Inheriting toString.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03.Extending Prototype.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.04.Class Hierarchy.js" />
+  <component name="RunManager" selected="Node.js.03.Posts.js">
+    <configuration name="01.Balloons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01.Balloons.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="02.People.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02.People.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="03.Posts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03.Posts.js" working-dir="$PROJECT_DIR$" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01.Balloons.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02.People.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.03.Posts.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.04.Class Hierarchy.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.03.Extending Prototype.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.02.Inheriting toString.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.01.Person and Teacher.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03.Posts.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.02.People.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01.Balloons.js" />
       </list>
     </recent_temporary>
   </component>
@@ -137,38 +147,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8cfa187e-d939-4ab7-a8eb-b95517007045" name="Default" comment="" />
-      <created>1520680234211</created>
+      <changelist id="646446a5-5e19-4ad3-8aed-ab09e9f9ae37" name="Default" comment="" />
+      <created>1520781511707</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1520680234211</updated>
-      <workItem from="1520680242446" duration="11473000" />
-      <workItem from="1520780741466" duration="33000" />
+      <updated>1520781511707</updated>
+      <workItem from="1520781514431" duration="8815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11506000" />
+    <option name="totallyTimeSpent" value="8815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13103953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -185,32 +195,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01.Person and Teacher.js">
+    <entry file="file://$PROJECT_DIR$/01.Balloons.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adsasd.html" />
-    <entry file="file://$PROJECT_DIR$/02.Inheriting toString.js">
+    <entry file="file://$PROJECT_DIR$/02.People.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-928">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="1798">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04.Class Hierarchy.js">
+    <entry file="file://$PROJECT_DIR$/03.Posts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Extending Prototype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
